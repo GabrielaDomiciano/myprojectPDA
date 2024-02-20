@@ -1,6 +1,6 @@
 # MyprojectPDA
 
-** Author Gabriela Domiciano
+## Author Gabriela Domiciano
 
 Project  Principles of Data Analytics
 
