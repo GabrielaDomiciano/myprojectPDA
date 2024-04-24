@@ -3,6 +3,7 @@
 ## Author Gabriela Domiciano
 
 Project  Principles of Data Analytics
+Teacher: Ian
 
 I study at [ATU](https://www.atu.ie).
 
