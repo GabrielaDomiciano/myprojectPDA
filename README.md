@@ -52,7 +52,7 @@ The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 
 ## About this project 📊
 
-![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png)
+![Penguins](hhttps://allisonhorst.github.io/palmerpenguins/logo.png)
 
 
 
