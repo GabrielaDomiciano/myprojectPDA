@@ -9,7 +9,7 @@ I study at [ATU](https://www.atu.ie).
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png)
 
 
-## Introduction
+## Introduction 👋 🐧
 
 This assessment is based on the Principles of Data Analytics course. During the course, we started by learning how to install Anaconda and configure the environment to work with Python. We used the Jupyter Notebook editor to write and run our code, learning not only Python but also how to use markdown to document our work.
 We explore fundamental programming concepts such as variables, data types (such as integers and floats), control structures, and functions. Additionally, we studied essential libraries for data analysis, such as NumPy, Pandas, and Matplotlib, enabling us to manipulate and visualize data effectively.
@@ -36,7 +36,7 @@ Python libraries are useful functions and modules that reduce code usage in the 
 
 The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 
-## To develop the project and analyze the database, I used the following as a reference:
+## References 📚
 
 - Classes we had over the semester, the code used as reference [Professor Ian McLoughlin Git Hub](https://github.com/ianmcloughlin/mywork/blob/main/iris.ipynb)
 - Python Plotting With Matplotlib [Real Python](https://realpython.com/python-matplotlib-guide/#understanding-pltsubplots-notation)
@@ -50,7 +50,7 @@ The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 
 
 
-## About this project.
+## About this project 📊
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png)
 
