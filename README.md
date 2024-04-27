@@ -55,16 +55,7 @@ The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
 
+These data were collected from 2007 - 2009 by Dr. Kristen Gorman.
+In the project, you will find information taken from the database, such as the species, sex, and body mass, in addition to the bill length per species, the number of penguins per species, and the relationship between the depth and length of the penguins' bill.
 
-This dataset contains information about 3 different species of penguins and was collected from 3 different islands in the Palmer Archipelago in Antarctica. The data contains characteristics of the penguins, bill length, bill depth, flipper length, body mass, sex, island name, and species name.
-esse projeto e sobre...
-
-Why the project is useful
-
-getting started
-
-user getting help
-
-author
-about me
 
