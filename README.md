@@ -1,7 +1,7 @@
 
 # Project Principles of Data Analytics 
 
-## Author Gabriela Domiciano
+## Author: Gabriela Domiciano Avellar
 Teacher: Ian McLoughlin
 
 I study at [ATU](https://www.atu.ie).
@@ -51,6 +51,10 @@ The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 
 
 ## About this project.
+
+![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png)
+
+
 
 This dataset contains information about 3 different species of penguins and was collected from 3 different islands in the Palmer Archipelago in Antarctica. The data contains characteristics of the penguins, bill length, bill depth, flipper length, body mass, sex, island name, and species name.
 esse projeto e sobre...
