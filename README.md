@@ -30,7 +30,7 @@ To follow and run the codes you will need to install Python on your computer. Yo
 
 [Numpy](https://numpy.org)
 
-[Matplotlib][https://matplotlib.org]
+[Matplotlib](https://matplotlib.org)
 
 The editor I used to create Python scripts: [Jupter](https://jupyter.org)
 
