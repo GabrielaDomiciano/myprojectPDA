@@ -21,7 +21,6 @@ In this project, we will conduct data analysis using Jupyter Notebook, focusing 
 
 To follow and run the codes you will need to install Python on your computer. You can install Anaconda, on the website you will find a free package and management environment that includes all the necessary packages and libraries for Python programming language.
 
-Anaconda: Anaconda.
 [Anaconda](https://www.anaconda.com).
 
 [Pyhton](https://www.python.org).
@@ -32,9 +31,9 @@ Python libraries are useful functions and modules that reduce code usage in the 
 
 [Numpy](https://numpy.org)
 
-(Matplotlib)[https://matplotlib.org]
+[Matplotlib][https://matplotlib.org]
 
-The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
+The editor I used to create Python scripts: [Jupter][https://jupyter.org]
 
 ## References 📚
 
@@ -45,8 +44,8 @@ The editor I used to create Python scripts: (Jupter)[https://jupyter.org]
 - I used the ChatGpt to help understand some codes, asking to explain in simple ways, and giving me suggestions on what would be important to include in the Readme.
 - Information about de [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html).
 - Following YouTube videos I watched in Portuguese, if you want to watch them, you can enable the subtitles:
-  - [Hastag Programacao](https://www.youtube.com/watch?v=kCMaqla6Grs)
-  - [Hastag Programacao](https://www.youtube.com/watch?v=FDU-D8ddTU4)
+  - Youtube Chanel 'Hastag Programacao' [Introduction to Data Analysis with Python](https://www.youtube.com/watch?v=kCMaqla6Grs)
+  - Youtube Chanel 'Hastag Programacao' [How to get sterted in Graphs in Python-Matplotlib](https://www.youtube.com/watch?v=FDU-D8ddTU4).
 
 
 
