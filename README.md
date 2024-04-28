@@ -25,7 +25,6 @@ To follow and run the codes you will need to install Python on your computer. Yo
 
 [Pyhton](https://www.python.org).
 
-Python libraries are useful functions and modules that reduce code usage in the program.
 
 [Pandas](https://pandas.pydata.org)
 
@@ -33,7 +32,7 @@ Python libraries are useful functions and modules that reduce code usage in the 
 
 [Matplotlib][https://matplotlib.org]
 
-The editor I used to create Python scripts: [Jupter][https://jupyter.org]
+The editor I used to create Python scripts: [Jupter](https://jupyter.org)
 
 ## References 📚
 
