@@ -36,14 +36,14 @@ The editor I used to create Python scripts: [Jupter](https://jupyter.org).
 
 ## References 📚
 
-- Classes we had over the semester, the code used as reference [Professor Ian McLoughlin Git Hub](https://github.com/ianmcloughlin/mywork/blob/main/iris.ipynb)
-- Python Plotting With Matplotlib [Real Python](https://realpython.com/python-matplotlib-guide/#understanding-pltsubplots-notation)
-- [Matplotlib](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
-- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- Classes we had over the semester, the code used as reference [Professor Ian McLoughlin Git Hub](https://github.com/ianmcloughlin/mywork/blob/main/iris.ipynb).
+- Python Plotting With Matplotlib [Real Python](https://realpython.com/python-matplotlib-guide/#understanding-pltsubplots-notation).
+- [Matplotlib](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html).
+- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 - I used the ChatGpt to help understand some codes, asking to explain in simple ways, and giving me suggestions on what would be important to include in the Readme.
 - Information about de [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html).
 - Following YouTube videos I watched in Portuguese, if you want to watch them, you can enable the subtitles:
-  - Youtube Chanel 'Hastag Programacao' [Introduction to Data Analysis with Python](https://www.youtube.com/watch?v=kCMaqla6Grs)
+  - Youtube Chanel 'Hastag Programacao' [Introduction to Data Analysis with Python](https://www.youtube.com/watch?v=kCMaqla6Grs).
   - Youtube Chanel 'Hastag Programacao' [How to get sterted in Graphs in Python-Matplotlib](https://www.youtube.com/watch?v=FDU-D8ddTU4).
 
 
